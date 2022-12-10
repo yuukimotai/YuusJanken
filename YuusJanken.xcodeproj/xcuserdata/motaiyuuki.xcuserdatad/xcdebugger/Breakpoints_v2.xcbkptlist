@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E74D604B-5D0B-43E4-B417-B4005600CB16"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94A70F97-425D-41C9-972A-AD368345DC0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YuusJanken/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "94A70F97-425D-41C9-972A-AD368345DC0D - 8ecfb4d5a1de3aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of YuusJanken.ContentView.answerNumber : Swift.Int"
+                  moduleName = "YuusJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/motaiyuuki/Desktop/YuusJanken/YuusJanken/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "94A70F97-425D-41C9-972A-AD368345DC0D - 564bfc7ef07e4e7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YuusJanken.ContentView.answerNumber.getter : Swift.Int"
+                  moduleName = "YuusJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/motaiyuuki/Desktop/YuusJanken/YuusJanken/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "94A70F97-425D-41C9-972A-AD368345DC0D - d38db83f1fdd026a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YuusJanken.ContentView.answerNumber.setter : Swift.Int"
+                  moduleName = "YuusJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/motaiyuuki/Desktop/YuusJanken/YuusJanken/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "94A70F97-425D-41C9-972A-AD368345DC0D - c55c6500ccb3737d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YuusJanken.ContentView.answerNumber.modify : Swift.Int"
+                  moduleName = "YuusJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/motaiyuuki/Desktop/YuusJanken/YuusJanken/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "94A70F97-425D-41C9-972A-AD368345DC0D - 144415844c6c6b6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YuusJanken.ContentView.answerNumber.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "YuusJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/motaiyuuki/Desktop/YuusJanken/YuusJanken/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "94A70F97-425D-41C9-972A-AD368345DC0D - 986796b498915e32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YuusJanken.ContentView.$answerNumber.getter : SwiftUI.Binding&lt;Swift.Int&gt;"
+                  moduleName = "YuusJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/motaiyuuki/Desktop/YuusJanken/YuusJanken/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "94A70F97-425D-41C9-972A-AD368345DC0D - d48e0521cc3832ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YuusJanken.ContentView.init() -&gt; YuusJanken.ContentView"
+                  moduleName = "YuusJanken"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/motaiyuuki/Desktop/YuusJanken/YuusJanken/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

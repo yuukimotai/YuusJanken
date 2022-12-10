@@ -53,7 +53,7 @@ struct ContentView: View {
         }
         
         VStack{
-
+            
             Button(action: {
                 
                 var newAnswerNumber = 0
@@ -74,12 +74,14 @@ struct ContentView: View {
                     .foregroundColor(Color.white)
             }
         }
-
+        
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        Group{
+            ContentView()
+        }
     }
 }
